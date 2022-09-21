@@ -42,7 +42,15 @@ public class C02_Basicauthentication {
         WebElement congratMesajElementi=driver.findElement(By.tagName("p"));
 
         Assert.assertTrue(congratMesajElementi.isDisplayed());
-    }
+
+
+
+            WebElement login=driver.findElement(By.xpath("//p"));
+            String actual=login.getText();
+            String expected="Congratulations! You must have the proper credentials.";
+            Assert.assertEquals(actual,expected);
+        }
+
 
     @AfterClass
     public void tearDown(){
