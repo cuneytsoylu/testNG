@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed4d4c38-c648-4368-bfa7-36356234e0ad" name="Changes" comment="" />
+    <list default="true" id="ed4d4c38-c648-4368-bfa7-36356234e0ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09/C02_SoftAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09/C03_SoftAssertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day09/C01_DependsOnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09/C01_DependsOnTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +23,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EtV4yypcHummElqF7o40iEHIQq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,20 +39,21 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C04_Dropdown">
-    <configuration name="C01_Notaions" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C02_SoftAssertion">
+    <configuration name="C01_DependsOnTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNgBatch81" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day08.*" />
+          <option name="PATTERN" value="tests.day09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day08" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08.C01_Notaions" />
+      <option name="PACKAGE_NAME" value="tests.day09" />
+      <option name="MAIN_CLASS_NAME" value="tests.day09.C01_DependsOnTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -50,16 +61,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_HandleDropdown" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_DependsOnTest.fiyatTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNgBatch81" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day08.*" />
+          <option name="PATTERN" value="tests.day09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day08" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08.C02_HandleDropdown" />
+      <option name="PACKAGE_NAME" value="tests.day09" />
+      <option name="MAIN_CLASS_NAME" value="tests.day09.C01_DependsOnTest" />
+      <option name="METHOD_NAME" value="fiyatTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_SoftAssertion" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNgBatch81" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day09" />
+      <option name="MAIN_CLASS_NAME" value="tests.day09.C02_SoftAssertion" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -103,10 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C02_SoftAssertion" />
+        <item itemvalue="TestNG.C01_DependsOnTest" />
+        <item itemvalue="TestNG.C01_DependsOnTest.fiyatTesti" />
         <item itemvalue="TestNG.C04_Dropdown" />
         <item itemvalue="TestNG.C03_Dropdown" />
-        <item itemvalue="TestNG.C02_HandleDropdown" />
-        <item itemvalue="TestNG.C01_Notaions" />
       </list>
     </recent_temporary>
   </component>
@@ -120,5 +150,16 @@
       <updated>1663414680946</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

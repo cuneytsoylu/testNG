@@ -47,16 +47,16 @@ public class C01_DependsOnTest {
     }
     @Test(dependsOnMethods = "aramaTesti")
     public void fiyatTesti() {
-        // 3. Test: "Nutella" icin arama yapildiysa ilk urunu tiklayin ve fiyatinin $14.99 oldugunu test edin
+        // 3. Test: "Nutella" icin arama yapildiysa ilk urunu tiklayin ve fiyatinin $8.89 oldugunu test edin
         WebElement ilkUrunElementi = driver.findElement(By.xpath("(//img[@class='s-image'])[1]"));
         ilkUrunElementi.click();
-        WebElement urunFiyatElementi = driver.findElement(By.xpath("(//div[@class='a-section a-spacing-small a-spacing-top-small'])[2]"));
+        WebElement urunFiyatElementi = driver.findElement(By.xpath("(//*[@class='a-size-mini olpWrapper'])[2]"));
         String urunFiyatiString = urunFiyatElementi.getText();
-        String arananFiyat = "$14.99";
+        String arananFiyat = "$8.89";
         Assert.assertTrue(urunFiyatiString.contains(arananFiyat));
     }
     @AfterClass
     public void quit(){
-        driver.close();
+       // driver.close();
     }
 }
