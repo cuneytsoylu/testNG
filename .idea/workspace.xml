@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed4d4c38-c648-4368-bfa7-36356234e0ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09/C02_SoftAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09/C03_SoftAssertion.java" afterDir="false" />
+    <list default="true" id="ed4d4c38-c648-4368-bfa7-36356234e0ad" name="Changes" comment="yorum">
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10/C01_Allerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10/C02_Basicauthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practise/Q1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day09/C01_DependsOnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09/C01_DependsOnTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="TestNG.C02_SoftAssertion">
     <configuration name="C01_DependsOnTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNgBatch81" />
@@ -149,6 +148,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663414680946</updated>
     </task>
+    <task id="LOCAL-00001" summary="yorum">
+      <created>1663758374451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663758374451</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,5 +168,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yorum" />
+    <option name="LAST_COMMIT_MESSAGE" value="yorum" />
   </component>
 </project>
