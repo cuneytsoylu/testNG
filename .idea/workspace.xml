@@ -4,18 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed4d4c38-c648-4368-bfa7-36356234e0ad" name="Changes" comment="yorum">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C01_WindowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C02_WindowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11/C03_TestBaseIlkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practise/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practise/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practise/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practise/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practise/Q05.java" afterDir="false" />
+    <list default="true" id="ed4d4c38-c648-4368-bfa7-36356234e0ad" name="Changes" comment="09222022">
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12/C01_TestBaseKullanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12/C02_MouseActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12/C03_MouseActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12/C04_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12/C05_MouseActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice01/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice02/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice02/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice02/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice02/Q1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practise/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practise/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice01/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practise/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice01/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practise/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice01/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practise/Q04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice01/Q04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practise/Q05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practise/Q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice01/Q06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +52,20 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;yiiguxing.plugin.translate&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C02_Basicauthentication">
-    <configuration name="C01_DependsOnTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C02_MouseActions">
+    <configuration name="C02_MouseActions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNgBatch81" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day09.*" />
+          <option name="PATTERN" value="tests.day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day09" />
-      <option name="MAIN_CLASS_NAME" value="tests.day09.C01_DependsOnTest" />
+      <option name="PACKAGE_NAME" value="tests.day12" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12.C02_MouseActions" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -67,34 +73,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_DependsOnTest.fiyatTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Q02" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNgBatch81" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day09.*" />
+          <option name="PATTERN" value="tests.practice02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day09" />
-      <option name="MAIN_CLASS_NAME" value="tests.day09.C01_DependsOnTest" />
-      <option name="METHOD_NAME" value="fiyatTesti" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_Basicauthentication" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNgBatch81" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day10" />
-      <option name="MAIN_CLASS_NAME" value="tests.day10.C02_Basicauthentication" />
+      <option name="PACKAGE_NAME" value="tests.practice02" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice02.Q02" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -102,16 +90,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_SoftAssertion" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Q03" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNgBatch81" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day09.*" />
+          <option name="PATTERN" value="tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day09" />
-      <option name="MAIN_CLASS_NAME" value="tests.day09.C02_SoftAssertion" />
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Q03" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -119,16 +107,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_Dropdown" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Q04" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNgBatch81" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day08.*" />
+          <option name="PATTERN" value="tests.practice02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day08" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08.C04_Dropdown" />
+      <option name="PACKAGE_NAME" value="tests.practice02" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice02.Q04" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNgBatch81" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.practice02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.practice02" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice02.Q1" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -138,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C02_Basicauthentication" />
-        <item itemvalue="TestNG.C02_SoftAssertion" />
-        <item itemvalue="TestNG.C01_DependsOnTest" />
-        <item itemvalue="TestNG.C01_DependsOnTest.fiyatTesti" />
-        <item itemvalue="TestNG.C04_Dropdown" />
+        <item itemvalue="TestNG.C02_MouseActions" />
+        <item itemvalue="TestNG.Q04" />
+        <item itemvalue="TestNG.Q03" />
+        <item itemvalue="TestNG.Q02" />
+        <item itemvalue="TestNG.Q1" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663765943770</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="09222022">
+      <created>1663817190638</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663817190638</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +204,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yorum" />
-    <option name="LAST_COMMIT_MESSAGE" value="yorum" />
+    <MESSAGE value="09222022" />
+    <option name="LAST_COMMIT_MESSAGE" value="09222022" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
