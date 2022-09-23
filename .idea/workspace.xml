@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed4d4c38-c648-4368-bfa7-36356234e0ad" name="Changes" comment="09222022">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12/C01_TestBaseKullanim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12/C02_MouseActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12/C03_MouseActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12/C04_Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12/C05_MouseActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice01/Q05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice02/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice02/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice02/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice02/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C01_KeyboardActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C02_FileExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C02_KeyboardActions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practise/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice01/Q01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practise/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice01/Q02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practise/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice01/Q03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practise/Q04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice01/Q04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practise/Q05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practise/Q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice01/Q06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +42,58 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;yiiguxing.plugin.translate&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C02_MouseActions">
+  <component name="RunManager" selected="TestNG.C02_FileExist">
+    <configuration name="C01_KeyboardActions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNgBatch81" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day13" />
+      <option name="MAIN_CLASS_NAME" value="tests.day13.C01_KeyboardActions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_FileExist" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNgBatch81" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day13" />
+      <option name="MAIN_CLASS_NAME" value="tests.day13.C02_FileExist" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_KeyboardActions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNgBatch81" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day13" />
+      <option name="MAIN_CLASS_NAME" value="tests.day13.C02_KeyboardActions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C02_MouseActions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNgBatch81" />
       <extension name="coverage">
@@ -66,40 +104,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests.day12" />
       <option name="MAIN_CLASS_NAME" value="tests.day12.C02_MouseActions" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q02" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNgBatch81" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.practice02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.practice02" />
-      <option name="MAIN_CLASS_NAME" value="tests.practice02.Q02" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q03" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNgBatch81" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.practice" />
-      <option name="MAIN_CLASS_NAME" value="tests.practice.Q03" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -124,30 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNgBatch81" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.practice02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.practice02" />
-      <option name="MAIN_CLASS_NAME" value="tests.practice02.Q1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C02_FileExist" />
+        <item itemvalue="TestNG.C02_KeyboardActions" />
+        <item itemvalue="TestNG.C01_KeyboardActions" />
         <item itemvalue="TestNG.C02_MouseActions" />
         <item itemvalue="TestNG.Q04" />
-        <item itemvalue="TestNG.Q03" />
-        <item itemvalue="TestNG.Q02" />
-        <item itemvalue="TestNG.Q1" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663817190638</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="09222022">
+      <created>1663854713840</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663854713840</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
