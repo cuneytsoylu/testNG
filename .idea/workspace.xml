@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed4d4c38-c648-4368-bfa7-36356234e0ad" name="Changes" comment="09232022">
-      <change afterPath="$PROJECT_DIR$/src/test/java/odevler/O1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C03_FileExistTesti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C04_FileDownload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C05_FileUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C06_KeyboardActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C06_Senkronizasyon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C07_ActionsClassHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C08_FileExist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C09_ExpilicitlyWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day13/C10_Senkronizasyon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day14/C01_ExplicitlyWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day14/C02_Faker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day14/C03_CookiesAutomation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day14/C04_Screenshot.java" afterDir="false" />
+    <list default="true" id="ed4d4c38-c648-4368-bfa7-36356234e0ad" name="Changes" comment="09242022">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663939203459</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="09242022">
+      <created>1664027660652</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664027660652</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +212,8 @@
     <MESSAGE value="yorum" />
     <MESSAGE value="09222022" />
     <MESSAGE value="09232022" />
-    <option name="LAST_COMMIT_MESSAGE" value="09232022" />
+    <MESSAGE value="09242022" />
+    <option name="LAST_COMMIT_MESSAGE" value="09242022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
