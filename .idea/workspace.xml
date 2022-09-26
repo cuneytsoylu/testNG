@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed4d4c38-c648-4368-bfa7-36356234e0ad" name="Changes" comment="09242022">
+    <list default="true" id="ed4d4c38-c648-4368-bfa7-36356234e0ad" name="Changes" comment="09262022">
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice02/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice02/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice02/Q07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,59 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;yiiguxing.plugin.translate&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C04_Screenshot">
-    <configuration name="C01_ExplicitlyWait" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNgBatch81" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day14" />
-      <option name="MAIN_CLASS_NAME" value="tests.day14.C01_ExplicitlyWait" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_Faker" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNgBatch81" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day14" />
-      <option name="MAIN_CLASS_NAME" value="tests.day14.C02_Faker" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_Faker.facebookKayitTesti" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.TestNgBatch81" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day14" />
-      <option name="MAIN_CLASS_NAME" value="tests.day14.C02_Faker" />
-      <option name="METHOD_NAME" value="facebookKayitTesti" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Q07">
     <configuration name="C03_CookiesAutomation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.TestNgBatch81" />
       <extension name="coverage">
@@ -126,13 +77,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q06" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNgBatch81" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.practice02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.practice02" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice02.Q06" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q06.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNgBatch81" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.practice02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.practice02" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice02.Q06" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q07" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TestNgBatch81" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.practice02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.practice02" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice02.Q07" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Q07" />
+        <item itemvalue="TestNG.Q06" />
+        <item itemvalue="TestNG.Q06.test" />
         <item itemvalue="TestNG.C04_Screenshot" />
         <item itemvalue="TestNG.C03_CookiesAutomation" />
-        <item itemvalue="TestNG.C02_Faker" />
-        <item itemvalue="TestNG.C02_Faker.facebookKayitTesti" />
-        <item itemvalue="TestNG.C01_ExplicitlyWait" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664027660652</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="09262022">
+      <created>1664199686710</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664199686710</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,7 +223,8 @@
     <MESSAGE value="09222022" />
     <MESSAGE value="09232022" />
     <MESSAGE value="09242022" />
-    <option name="LAST_COMMIT_MESSAGE" value="09242022" />
+    <MESSAGE value="09262022" />
+    <option name="LAST_COMMIT_MESSAGE" value="09262022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
